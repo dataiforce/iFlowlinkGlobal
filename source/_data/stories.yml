@@ -8,15 +8,15 @@
 #
 - name: MoHern
   description: 美换，点亮你的生活，全球家居行业品牌。
-  cover: /images/sample/mydesk.png
+  cover: /images/logo/mohern.png
 
 - name: DualFerv
   description: 登风，登风而上，全球户外活动品牌。
-  cover: /images/sample/mydesk.png
+  cover: /images/logo/dualferv.png
 
 - name: TaShow
   description: 她秀，创造美好生活，全球生活个护品牌。
-  cover: /images/sample/mydesk.png
+  cover: /images/logo/tashow.png
 
 
 

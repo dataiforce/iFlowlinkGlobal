@@ -3,7 +3,8 @@
     <div class="py-3">
       <div class="row justify-content-between">
         <div class="col-6">
-          <img class="filter-gray mb-3 lazyload" height="40" data-src="<%- url_for(theme.brand) %>" alt="<%= config.title %>" role="img">
+          <h5>联系方式</h5>
+
           <p class="mb-4"><%= config.description %></p>
           <ul class="list-inline">
             <% for (var item in site.data.contact){%>
@@ -40,8 +41,6 @@
             <% } %>
           </li>
         <% } %>
-        <li class="list-inline-item"><%= __('powered_by') %> <a href="http://hexo.io/" target="_blank">Hexo</a></li>
-        <li class="list-inline-item"><%= __('Designer') %> <a href="https://acorn.imaging.xin/" target="_blank"><%= config.author %></a></li>
       </ul>
     </div>
   </div>
