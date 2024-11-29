@@ -24,10 +24,10 @@
 - name: stories
   id: 
   title: 品牌
-  subtitle: 公司目前拥有三个美国品牌
+  subtitle: 公司目前拥有六个美国品牌
   partial: page/stories
   bg_color: bg-light
-  fluid: 
+  fluid: true
   more: 
 
 # - name: archive

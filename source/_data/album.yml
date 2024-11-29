@@ -5,43 +5,24 @@
 # cover:        封面图片路径
 # link:         链接路径，无链接为空即可
 # preview:      预览路径，无则可以为空
-#
-# - name: 中文标题一
-#   en_name: ENGLISH TITLE 1
-#   description: 披绣闼，俯雕甍，山原旷其盈视，川泽纡其骇瞩。闾阎扑地，钟鸣鼎食之家；舸舰弥津，青雀黄龙之舳。云销雨霁，彩彻区明。落霞与孤鹜齐飞，秋水共长天一色。渔舟唱晚，响穷彭蠡之滨；雁阵惊寒，声断衡阳之浦。
-#   cover: /images/sample/mydesk.png
-#   link: 
-#   preview: 
 
-- name: 中文标题二
-  description: 披绣闼，俯雕甍，山原旷其盈视，川泽纡其骇瞩。闾阎扑地，钟鸣鼎食之家；舸舰弥津，青雀黄龙之舳。云销雨霁，彩彻区明。落霞与孤鹜齐飞，秋水共长天一色。渔舟唱晚，响穷彭蠡之滨；雁阵惊寒，声断衡阳之浦。
+- name: 怀玫 多效草本黑头清洁套装
+  en_name: HUGROSE Multi-Action Herbal Blackhead Cleanse Kit
+  description: 怀玫多效草本黑头清洁套装，揭示您最自然的美丽肌肤。纯植物配方，有效去除黑头，紧致毛孔。作为终极的自然护肤之选，为您的肌肤带来清新呵护，让肌肤恢复光滑细腻，展现自信迷人的光彩。
   cover: /images/sample/mydesk.png
   link: 
   preview: 
 
-- name: 中文标题三
-  description: 披绣闼，俯雕甍，山原旷其盈视，川泽纡其骇瞩。闾阎扑地，钟鸣鼎食之家；舸舰弥津，青雀黄龙之舳。云销雨霁，彩彻区明。落霞与孤鹜齐飞，秋水共长天一色。渔舟唱晚，响穷彭蠡之滨；雁阵惊寒，声断衡阳之浦。
+- name: 贝丽莫 天然魔幻闪耀干油
+  en_name: Bellimo NATURAL ENCHANTED SHIMMER DRY OIL
+  description: 贝丽莫天然魔幻闪耀干油，汇聚 11 种珍贵 100%植物源油，独特配方加晶体颗粒，为肤色增光泽。持久保湿，触感丝滑不油腻，释放温暖神秘香氛，让您光彩照人、柔软动人，魅力尽情绽放。
   cover: /images/sample/mydesk.png
   link: 
   preview: 
 
-- name: 中文标题四
-  description: 披绣闼，俯雕甍，山原旷其盈视，川泽纡其骇瞩。闾阎扑地，钟鸣鼎食之家；舸舰弥津，青雀黄龙之舳。云销雨霁，彩彻区明。落霞与孤鹜齐飞，秋水共长天一色。渔舟唱晚，响穷彭蠡之滨；雁阵惊寒，声断衡阳之浦。
+- name: 求诺 须后精华乳
+  en_name: Qiouno AFTER SHAVE BALM
+  description: 求诺须后精华乳，天然舒缓，快速止痒，减轻剃须红肿。长效保湿，滋养肌肤，重现水润光泽。温和配方，男士专属，为您的剃须后肌肤提供贴心呵护，让肌肤恢复舒适与光彩。
   cover: /images/sample/mydesk.png
   link: 
   preview: 
-
-# - name: 中文标题五
-#   en_name: ENGLISH TITLE 5
-#   description: 披绣闼，俯雕甍，山原旷其盈视，川泽纡其骇瞩。闾阎扑地，钟鸣鼎食之家；舸舰弥津，青雀黄龙之舳。云销雨霁，彩彻区明。落霞与孤鹜齐飞，秋水共长天一色。渔舟唱晚，响穷彭蠡之滨；雁阵惊寒，声断衡阳之浦。
-#   cover: /images/sample/mydesk.png
-#   link: 
-#   preview: 
-
-# - name: 中文标题六
-#   en_name: ENGLISH TITLE 6
-#   description: 披绣闼，俯雕甍，山原旷其盈视，川泽纡其骇瞩。闾阎扑地，钟鸣鼎食之家；舸舰弥津，青雀黄龙之舳。云销雨霁，彩彻区明。落霞与孤鹜齐飞，秋水共长天一色。渔舟唱晚，响穷彭蠡之滨；雁阵惊寒，声断衡阳之浦。
-#   cover: /images/sample/mydesk.png
-#   link: 
-#   preview: 
-
