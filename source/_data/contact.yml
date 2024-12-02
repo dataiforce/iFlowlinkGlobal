@@ -14,7 +14,7 @@
 #   icon: /images/icons/contact_wechat.svg
 #   link: javascript:;
 
-- name: 邮箱
+- name: Email
   en_name: e-mail
   icon: /images/icons/contact_email.svg
   link: mailto:service@iflowlink.com

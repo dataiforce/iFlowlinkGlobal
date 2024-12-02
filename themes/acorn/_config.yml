@@ -1,6 +1,6 @@
 # Header
 menu:
-  首页: /
+  Home: /
 #  画廊: /gallery
 #  案例: /stories
 #  新闻: /archives
@@ -38,12 +38,18 @@ swiper:
 toc: true
 
 # Slogan
+# slogan: 
+#   primary: 流连电商
+#   secondary: 流连（厦门）电子商务有限公司是一家成立于 2018 年的跨境电商出口公司，坐落于美丽的滨海城市厦门，目前拥有 40 多名员工。公司致力于为全球消费者提供优质商品，主营母婴用品和美妆护肤品类。经过多年的发展，公司已成为跨境电商行业的佼佼者，拥有一支完整且专业的运营团队，数十万忠实用户以及众多国内外合作商家。
+#   archives: 汇聚热点话题 打造创新思路
+#   pages: 运维更智能 部署更方便 应用更便捷
+#   posts: 实践见真知既是最好的解释
+
 slogan: 
-  primary: 流连电商
-  secondary: 流连（厦门）电子商务有限公司是一家成立于 2018 年的跨境电商出口公司，坐落于美丽的滨海城市厦门，目前拥有 40 多名员工。公司致力于为全球消费者提供优质商品，主营母婴用品和美妆护肤品类。经过多年的发展，公司已成为跨境电商行业的佼佼者，拥有一支完整且专业的运营团队，数十万忠实用户以及众多国内外合作商家。
-  archives: 汇聚热点话题 打造创新思路
-  pages: 运维更智能 部署更方便 应用更便捷
-  posts: 实践见真知既是最好的解释
+  primary: iFlowlink
+  # secondary: 流连（厦门）电子商务有限公司是一家成立于 2018 年的跨境电商出口公司，坐落于美丽的滨海城市厦门，目前拥有 40 多名员工。公司致力于为全球消费者提供优质商品，主营母婴用品和美妆护肤品类。经过多年的发展，公司已成为跨境电商行业的佼佼者，拥有一支完整且专业的运营团队，数十万忠实用户以及众多国内外合作商家。
+  secondary: iFlowlink (Xiamen) E-commerce Co., Ltd. is a cross-border e-commerce export company founded in 2018, located in the beautiful coastal city of Xiamen, and currently has more than 40 employees. The company is committed to providing high-quality goods to consumers around the world, mainly specializing in mother and baby products and beauty and skincare categories. After years of development, the company has become a leader in the cross-border e-commerce industry, with a complete and professional operation team, hundreds of thousands of loyal users as well as many domestic and international cooperative merchants.
+
 
 # Library
 libs:

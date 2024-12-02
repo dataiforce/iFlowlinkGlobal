@@ -6,23 +6,42 @@
 # link:         链接路径，无链接为空即可
 # preview:      预览路径，无则可以为空
 
-- name: 怀玫 多效草本黑头清洁套装
-  en_name: HUGROSE Multi-Action Herbal Blackhead Cleanse Kit
-  description: 怀玫多效草本黑头清洁套装，揭示您最自然的美丽肌肤。纯植物配方，有效去除黑头，紧致毛孔。作为终极的自然护肤之选，为您的肌肤带来清新呵护，让肌肤恢复光滑细腻，展现自信迷人的光彩。
+- name: HUGROSE Multi-Action Herbal Blackhead Cleanse Kit
+  description: HUGROSE Multi-Action Herbal Blackhead Cleanse Kit reveals your most naturally beautiful skin. A purely botanical formula that effectively removes blackheads and tightens pores. As the ultimate natural skincare choice, it refreshes and pampers your skin, restoring smoothness and refinement for a confident, glamorous glow.
+  cover: /images/logo/hugrose-product.jpg
+  link: 
+  preview: 
+
+- name: Bellimo NATURAL ENCHANTED SHIMMER DRY OIL
+  description: Bellimo NATURAL ENCHANTED SHIMMER DRY OIL is a unique blend of 11 precious 100% plant-based oils and crystals that add radiance to the complexion. Long-lasting moisturizing, silky and non-greasy to the touch, it releases a warm and mysterious fragrance, leaving you radiant, soft and glamorous.
   cover: /images/sample/mydesk.png
   link: 
   preview: 
 
-- name: 贝丽莫 天然魔幻闪耀干油
-  en_name: Bellimo NATURAL ENCHANTED SHIMMER DRY OIL
-  description: 贝丽莫天然魔幻闪耀干油，汇聚 11 种珍贵 100%植物源油，独特配方加晶体颗粒，为肤色增光泽。持久保湿，触感丝滑不油腻，释放温暖神秘香氛，让您光彩照人、柔软动人，魅力尽情绽放。
+- name: Qiouno AFTER SHAVE BALM
+  description: Qiouno AFTER SHAVE BALM, naturally soothing, quickly stops itching and reduces shaving redness. Long-lasting moisturizing, nourishing the skin to restore hydration and shine. Gentle formula, exclusive to men, provides intimate care for your post-shave skin, restoring comfort and radiance.
   cover: /images/sample/mydesk.png
   link: 
   preview: 
 
-- name: 求诺 须后精华乳
-  en_name: Qiouno AFTER SHAVE BALM
-  description: 求诺须后精华乳，天然舒缓，快速止痒，减轻剃须红肿。长效保湿，滋养肌肤，重现水润光泽。温和配方，男士专属，为您的剃须后肌肤提供贴心呵护，让肌肤恢复舒适与光彩。
-  cover: /images/sample/mydesk.png
-  link: 
-  preview: 
+
+# - name: 怀玫 多效草本黑头清洁套装
+#   en_name: HUGROSE Multi-Action Herbal Blackhead Cleanse Kit
+#   description: 怀玫多效草本黑头清洁套装，揭示您最自然的美丽肌肤。纯植物配方，有效去除黑头，紧致毛孔。作为终极的自然护肤之选，为您的肌肤带来清新呵护，让肌肤恢复光滑细腻，展现自信迷人的光彩。
+#   cover: /images/sample/mydesk.png
+#   link: 
+#   preview: 
+
+# - name: 贝丽莫 天然魔幻闪耀干油
+#   en_name: Bellimo NATURAL ENCHANTED SHIMMER DRY OIL
+#   description: 贝丽莫天然魔幻闪耀干油，汇聚 11 种珍贵 100%植物源油，独特配方加晶体颗粒，为肤色增光泽。持久保湿，触感丝滑不油腻，释放温暖神秘香氛，让您光彩照人、柔软动人，魅力尽情绽放。
+#   cover: /images/sample/mydesk.png
+#   link: 
+#   preview: 
+
+# - name: 求诺 须后精华乳
+#   en_name: Qiouno AFTER SHAVE BALM
+#   description: 求诺须后精华乳，天然舒缓，快速止痒，减轻剃须红肿。长效保湿，滋养肌肤，重现水润光泽。温和配方，男士专属，为您的剃须后肌肤提供贴心呵护，让肌肤恢复舒适与光彩。
+#   cover: /images/sample/mydesk.png
+#   link: 
+#   preview: 

@@ -6,23 +6,45 @@
 # cover_size:   封面图片大小
 # link:         链接路径，无链接为空即可
 #
-- name: 企业理念
+
+- name: Corporate Philosophy
   en_name: 
-  description: 用更少的资源创造更好的产品，令用户、员工和社会满意。
+  description: Create better products with fewer resources to satisfy users, employees and society.
   cover: /images/culture/icon_1.svg
   cover_size: 64
   link:
 
-- name: 企业价值观
+- name: Corporate Values
   en_name: 
-  description: '踏实奋斗，真诚合作，积极主动，乐观开朗。'
+  description: Down-to-earth struggle, sincere cooperation, proactive, optimistic and cheerful.
   cover: /images/culture/icon_3.svg
   cover_size: 64
   link:
 
-- name: 企业目标
-  en_name: 
-  description: 努力工作美好生活，做一个百年的企业和人。
+- name: Corporate objective
+  description: Work hard live well and be a 100 year old business and person.
   cover: /images/culture/icon_2.svg
   cover_size: 64
   link:
+
+    
+# - name: 企业理念
+#   en_name: 
+#   description: 用更少的资源创造更好的产品，令用户、员工和社会满意。
+#   cover: /images/culture/icon_1.svg
+#   cover_size: 64
+#   link:
+
+# - name: 企业价值观
+#   en_name: 
+#   description: '踏实奋斗，真诚合作，积极主动，乐观开朗。'
+#   cover: /images/culture/icon_3.svg
+#   cover_size: 64
+#   link:
+
+# - name: 企业目标
+#   en_name: 
+#   description: 努力工作美好生活，做一个百年的企业和人。
+#   cover: /images/culture/icon_2.svg
+#   cover_size: 64
+#   link:

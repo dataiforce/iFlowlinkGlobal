@@ -5,29 +5,56 @@
 # cover:        封面图片路径
 # link:         链接路径，无链接为空即可
 # preview:      预览路径，无则可以为空
-#
+
 - name: MoHern
-  description: 美换，点亮你的生活，家居行业品牌。
+  description: MoHern, light up your life, home industry brand.
   cover: /images/logo/mohern.png
 
 - name: DualFerv
-  description: 登风，登风而上，户外活动品牌。
+  description: DualFerv, the outdoor activity brand.
   cover: /images/logo/dualferv.png
 
 - name: TaShow
-  description: 她秀，创造美好生活，生活个护品牌。
+  description: TaShow, Create a better life and live a personal care brand.
   cover: /images/logo/tashow.png
 
 - name: HUGROSE
-  description: 怀玫，自然之韵，纯净美肌。个人护理品牌。
+  description: HUGROSE，nature's rhythm, pure beauty. Personal care brand.
   cover: /images/logo/hugrose.png
 
 - name: Qiouno
-  description: 求诺，铸就男士自信，彰显力量之美。男性个护品牌。
+  description: Qiouno, forging men's confidence and the beauty of strength. Men's personal care brand.
+
   cover: /images/logo/qiouno.png
 
 - name: Bellimo
-  description: 贝丽莫，重塑女性无龄之美。女性抗衰品牌。
+  description: Bellimo, remodeling women's ageless beauty. Women's anti-aging brand.
   cover: /images/logo/bellimo.png
+
+
+
+# - name: MoHern
+#   description: 美换，点亮你的生活，家居行业品牌。
+#   cover: /images/logo/mohern.png
+
+# - name: DualFerv
+#   description: 登风，登风而上，户外活动品牌。
+#   cover: /images/logo/dualferv.png
+
+# - name: TaShow
+#   description: 她秀，创造美好生活，生活个护品牌。
+#   cover: /images/logo/tashow.png
+
+# - name: HUGROSE
+#   description: 怀玫，自然之韵，纯净美肌。个人护理品牌。
+#   cover: /images/logo/hugrose.png
+
+# - name: Qiouno
+#   description: 求诺，铸就男士自信，彰显力量之美。男性个护品牌。
+#   cover: /images/logo/qiouno.png
+
+# - name: Bellimo
+#   description: 贝丽莫，重塑女性无龄之美。女性抗衰品牌。
+#   cover: /images/logo/bellimo.png
 
 

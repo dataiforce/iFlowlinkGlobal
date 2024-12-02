@@ -5,7 +5,7 @@
 #
 - name: album
   id: 
-  title: 公司部分产品
+  title: Part of the company's products
   subtitle: 
   partial: album
   bg_color: 
@@ -23,8 +23,8 @@
 
 - name: stories
   id: 
-  title: 品牌
-  subtitle: 公司目前拥有六个美国品牌
+  title: Brands
+  subtitle: Our company currently owns six U.S. brands
   partial: page/stories
   bg_color: bg-light
   fluid: true
