@@ -1,5 +1,5 @@
 ---
-title: Artificial Intelligence Research Services
+title: iFlowlink Artificial Intelligence Research Services
 date: 2024-12-12 18:00:00
 tags: Service
 categories: 
