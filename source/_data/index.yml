@@ -21,6 +21,16 @@
 #   fluid: 
 #   more: 
 
+
+- name: archive
+  id: 
+  title: Our Technelogy Service
+  subtitle: Smart Technology, Boosting Efficiency
+  partial: archive
+  bg_color: 
+  fluid: 
+  more: /archives/
+
 - name: stories
   id: 
   title: Brands
@@ -30,14 +40,8 @@
   fluid: true
   more: 
 
-# - name: archive
-#   id: 
-#   title: 新闻
-#   subtitle: 汇聚热点话题 打造创新思路
-#   partial: archive
-#   bg_color: 
-#   fluid: 
-#   more: /archives/
+
+
 
 # - name: solution
 #   id: 
