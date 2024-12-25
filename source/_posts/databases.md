@@ -8,7 +8,7 @@ photos: [
 ] 
 ---
 
-Starting from approximately $900
+Starting from approximately $800
 This price is for reference only. Actual pricing will be discussed with our sales team based on your specific requirements.
 
 <!--more-->
