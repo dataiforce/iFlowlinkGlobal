@@ -5,8 +5,8 @@
 
 <div class="album-grid album-grid-6" id="album-grid">
   <% for (var item in site.data.album){%>
-  <div class="album-grid-item">
-    <div class="album-art" style="background-image: url(<%=site.data.album[item]['cover']%>)">
+  <div class="album-grid-item" onclick="window.location.href='<%= url_for(site.data.album[item]['link']) %>'">
+    <div class="album-art" style="background-image: url(<%=site.data.album[item]['cover']%>)" >
       <div class="album-art-text">
         <h5 class="mb-0"><%=site.data.album[item]['name'] %></h5>
         <small class="text-secondary d-block mb-3"><%=site.data.album[item]['en_name'] %></small>
@@ -16,3 +16,12 @@
   </div>
   <%} %>
 </div>
+
+<style>
+  .album-grid-item {
+    cursor: pointer;
+  }
+  .album-art {
+    /* 你的样式 */
+  }
+</style>
